@@ -20,3 +20,6 @@ Hello World
 {"message":"Hello World, in28minutes"}
 ```
 
+http://kodebinder-rest-api-dev.eba-y8yp8pic.us-east-1.elasticbeanstalk.com/hello-world
+http://kodebinder-rest-api-dev.eba-y8yp8pic.us-east-1.elasticbeanstalk.com/hello-world-bean
+http://kodebinder-rest-api-dev.eba-y8yp8pic.us-east-1.elasticbeanstalk.com/hello-world/path-variable/in28minutes
