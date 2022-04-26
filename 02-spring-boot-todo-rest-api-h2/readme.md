@@ -133,3 +133,10 @@ artifacts:
   files:
     - target/spring-boot-todo-rest-api-h2-aws-codepipeline-0.0.1-SNAPSHOT.jar
 ```
+
+http://kodebinder-todo-rest-api-h2-dev.eba-wtgagrnf.us-east-1.elasticbeanstalk.com/h2-console
+http://kodebinder-todo-rest-api-h2-dev.eba-wtgagrnf.us-east-1.elasticbeanstalk.com/hello-world
+http://kodebinder-todo-rest-api-h2-dev.eba-wtgagrnf.us-east-1.elasticbeanstalk.com/hello-world-bean
+http://kodebinder-todo-rest-api-h2-dev.eba-wtgagrnf.us-east-1.elasticbeanstalk.com/hello-world/path-variable/in28minutes
+http://kodebinder-todo-rest-api-h2-dev.eba-wtgagrnf.us-east-1.elasticbeanstalk.com/jpa/users/in28minutes/todos
+http://kodebinder-todo-rest-api-h2-dev.eba-wtgagrnf.us-east-1.elasticbeanstalk.com/jpa/users/in28minutes/todos/10001
